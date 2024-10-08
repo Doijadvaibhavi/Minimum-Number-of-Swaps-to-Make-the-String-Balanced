@@ -46,7 +46,7 @@ The number of opening brackets '[' equals n / 2, and the number of closing brack
 # SOLUTION
 
 * JAVA CODE
-* 
+  
 class Solution {
 
     public int minSwaps(String s) {
